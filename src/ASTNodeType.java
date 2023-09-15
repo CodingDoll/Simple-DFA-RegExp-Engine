@@ -1,0 +1,3 @@
+public enum ASTNodeType {
+  CHAR, CONCAT, SELECT, CLOSURE, EPLISON
+}
